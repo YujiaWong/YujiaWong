@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently Studying at **The Northeastern University(Jan 2023- Dec 2025)**
 
-- 🌱 I’m currently learning **React, Node.js, Spring...**
+- 🌱 I’m currently learning **React, Javascript, Node.js, Next.js...**
 
 - 🤝 I’m looking for **Software Development Engineer Internship & Job**
 
-- 💬 Ask me about **React, JS, Java...**
+- 💬 Ask me about **React, Javascript, HTML, CSS...**
 
 - 📫 How to reach me **wyujia@umich.edu/wyujia1114@gmail.com**
 
